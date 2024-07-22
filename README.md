@@ -1,6 +1,6 @@
 # MELT
 Multi-Level Fusion for Robust RGBT Tracking with Enhanced Thermal Representation
 
+<img width="996" alt="pipeline1" src="https://github.com/user-attachments/assets/f42edb47-4148-4571-ab1e-c8df2b73a09a">
 
 
-![pipeline](https://github.com/user-attachments/assets/06395d3d-267a-4b56-86a2-c11e901cd722)
